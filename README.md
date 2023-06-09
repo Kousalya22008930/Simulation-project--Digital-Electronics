@@ -1,8 +1,6 @@
 # TITLE
 Minimise the function using K map F(A,B,C)=ABC+B'C'+BC+AB' and simulate the logic diagram using verilog.
 
-# AIM
-    To minimise the function using K map F(A,B,C)=ABC+B'C'+BC+AB' and simulate the logic diagram using verilog.
 # THEORY
 
 # PROGRAM
